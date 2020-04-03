@@ -1,0 +1,26 @@
+h1 {
+	color: red;
+	font-size: 30px;
+	font-family: Tahoma, Verdana;
+	text-align: center;
+}
+
+h2 {
+	color: green;
+	font-family: Tahoma, Verdana;
+	font-size: 26px;
+	text-align: center;
+}
+
+h3 {
+	color: blue;
+	font: 22px Tahoma, Verdana;
+}
+
+p, li {
+	font-family: Arial, Tahoma, Verdana;
+	font-size: 20px;
+	text-align: justify;
+	color: gray;
+}
+

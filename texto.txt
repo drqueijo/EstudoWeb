@@ -1,0 +1,63 @@
+SISTEMAS PARA INTERNET
+
+Vivemos em um mundo conectado, onde quase todos possuem dispositivos como computadores, notebooks, tablets ou smartphones e utilizam aplicativos e sistemas ligados a Internet. Por este motivo, existe a alta demanda de profissionais qualificados na área de Sistemas para Internet.
+
+Segundo o IBOPE, quase metade da população brasileira possui acesso a internet, sendo que o Brasil é o quinto país com o maior número de conexões.
+
+O Tecnólogo em Sistemas para internet poderá atuar como Front-end Developer (a pessoa que é responsável por dar vida às aplicações e sites, projetando sua interface, com a parte que interage diretamente com o usuário), Back-end Developer (a pessoa que implementa os programas, banco de dados e codifica as regras de negócios), Desenvolvedor Mobile (cuida do desenvolvimento de aplicações para dispositivos móveis, como Android e Apple iOS - iPhone e iPad), Desenvolvedor de Jogos para Internet e Gestor ou Desenvolvedor de Comércio Eletrônico (E-commerce), além de poder cuidar da Manutenção, Atualização e Segurança de Sistemas Web.
+
+Após graduado, o tecnólogo ainda poderá continuar com os estudos em um Curso de Especialização (Pós-Graduação), Mestrado ou Doutorado, além de poder concorrer a vagas de Concursos Públicos.
+
+1º Período - Introdução
+Disciplina	Carga Horária
+Algorítmos e Estrutura de Dados	80 h/r
+Arquitetura e Organização de Computadores	80 h/r
+Desenvolvimento de Jogos	80 h/r
+Comunicação e Expressão	80 h/r
+Tecnologias de Desenvolvimento e Padrões Web	80 h/r
+Total	400 h/r
+
+2º Período - Assistente de Desenvolvimento Web
+Disciplina	Carga Horária
+Banco de Dados	80 h/r
+Lógica	80 h/r
+Desenvolvimento de Sites Dinâmicos para Web	80 h/r
+Desenvolvimento Web e Frameworks Front-End	80 h/r
+Programação Orientada a Objetos	80 h/r
+Total	400 h/r
+
+3º Período - Assistente de Desenvolvimento Front-End
+Disciplina	Carga Horária
+Desenvolvimento de Sistemas para Web	80 h/r
+Empreendedorismo	80 h/r
+Ferramentas de Desenvolvimento e Operação de Software (Devops)	80 h/r
+Programação para Web com Javascript	80 h/r
+Sistemas Operacionais e Redes de Computadores	80 h/r
+Total	400 h/r
+
+4º Período - Assistente de Desenvolvimento Back-End
+Disciplina	Carga Horária
+Engenharia de Software	80 h/r
+Frameworks de Desenvolvimento Javascript	80 h/r
+Frameworks de Desenvolvimento PHP	80 h/r
+Metodologia da Pesquisa Científica	80 h/r
+Tecnologias Emergentes	80 h/r
+Total	400 h/r
+
+5º Período - Desenvolvedor Full-stack
+Disciplina	Carga Horária
+Análise de Sistemas	80 h/r
+Desenvolvimento Mobile - iOS	80 h/r
+formação s	80 h/r
+Frameworks de Desenvolvimento Java	80 h/r
+Marketing para Internet	80 h/r
+Total	400 h/r
+
+6º Período - Tecnólogo em Sistemas para Internet
+Disciplina	Carga Horária
+Desenvolvimento Mobile - iOS	80 h/r
+Gerência de Projetos e Metodologias Ágeis	80 h/r
+Infraestrutura e Segurança na Web	80 h/r
+IoT - Internet das Coisas	80 h/r
+Tópicos Avançados em Programação Web	80 h/r
+Total	400 h/r
